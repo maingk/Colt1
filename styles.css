@@ -5,3 +5,13 @@ body {
 h1 {
     background-color: purple;
 }
+
+h1{
+    font-weight: 300;
+}
+
+h3 {
+    color: #eeeeee;
+    font-weight: 100;
+}
+
